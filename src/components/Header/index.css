@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.line-order {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.wave {
+  height: 40px;
+  width: 40px;
+
+  margin-top: 12%;
+}
+.pera {
+  color: #12022f;
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 10px;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  margin-top: 2%;
+}
